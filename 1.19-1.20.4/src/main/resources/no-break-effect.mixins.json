@@ -1,0 +1,11 @@
+{
+	"required": true,
+	"package": "online.flowerinsnow.nobreakeffect.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+		"MixinWorldRenderer"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
