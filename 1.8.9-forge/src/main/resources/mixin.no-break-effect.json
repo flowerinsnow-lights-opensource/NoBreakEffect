@@ -1,0 +1,7 @@
+{
+    "refmap": "mixins.no-break-effect.refmap.json",
+    "package": "online.flowerinsnow.nobreakeffect.mixin",
+    "client": [
+        "MixinRenderGlobal"
+    ]
+}

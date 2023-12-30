@@ -1,0 +1,18 @@
+[
+    {
+        "modid": "no-break-effect",
+        "name": "No Break Effect",
+        "description": "Hide block break effect.",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "https://github.com/flowerinsnowdh/NoBreakEffetc",
+        "updateUrl": "",
+        "authorList": [
+            "flowerinsnow"
+        ],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
